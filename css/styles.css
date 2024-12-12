@@ -452,3 +452,8 @@ section ul li {
     border: none;
     border-radius: 4px;
 }
+
+.subscribe-form-button .icon {
+    margin-left: 16px;
+    fill: #ffffff;
+}
